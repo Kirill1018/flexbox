@@ -1,0 +1,202 @@
+body {
+    background-color:lightseagreen;
+    margin-left:0;
+    margin-right:0;
+    margin-top:0;
+}
+.heading {
+    color:whitesmoke;
+    height:60px;
+    margin-right:0;
+}
+.board {
+    position:fixed;
+    margin-left:30px;
+    padding-top:21px;
+}
+.task {
+    background-color:darkgrey;
+    text-indent:30px;
+    width:360px;
+    height:420px;
+    margin-top:30px;
+    margin-left:30px;
+}
+.lorem {
+    background-color:whitesmoke;
+    margin-left:30px;
+    width:300px;
+}
+.problem {
+    margin-left:30px;
+    text-indent:0;
+}
+.lorUs {
+    margin-left:30px;
+}
+.in {
+    background-color:whitesmoke;
+    margin-left:30px;
+    width:300px;
+    margin-top:30px;
+}
+.inUs {
+    margin-left:75px;
+}
+.integer {
+    background-color:whitesmoke;
+    margin-left:30px;
+    width:300px;
+    margin-top:30px;
+}
+.intUs {
+    margin-left:90px;
+}
+.progress {
+    background-color:darkgrey;
+    text-indent:30px;
+    width:360px;
+    height:420px;
+    margin-left:420px;
+    margin-top:-420px;
+    overflow-y:scroll;
+}
+.quisque {
+    background-color:whitesmoke;
+    margin-left:30px;
+    width:300px;
+}
+.quisqUs {
+    margin-left:60px;
+}
+.nunc {
+    background-color:whitesmoke;
+    margin-left:30px;
+    width:300px;
+    margin-top:30px;
+}
+.nuncUs {
+    margin-left:66px;
+}
+.test {
+    background-color:darkgrey;
+    text-indent:30px;
+    width:360px;
+    height:420px;
+    margin-left:810px;
+    margin-top:-420px;
+}
+.sed {
+    background-color:whitesmoke;
+    margin-left:30px;
+    width:300px;
+}
+.sedUs {
+    margin-left:30px;
+}
+.suspendisse {
+    background-color:whitesmoke;
+    margin-left:30px;
+    width:300px;
+    margin-top:30px;
+}
+.suspUs {
+    margin-left:72px;
+}
+.integer_ {
+    background-color:whitesmoke;
+    margin-left:30px;
+    width:300px;
+    margin-top:30px;
+}
+.integerUs {
+    margin-left:81px;
+}
+.in_ {
+    background-color:whitesmoke;
+    margin-left:30px;
+    width:300px;
+    margin-top:30px;
+}
+.inUser {
+    margin-left:30px;
+}
+.donec {
+    background-color:whitesmoke;
+    margin-left:30px;
+    width:300px;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+.donUs {
+    margin-left:72px;
+}
+.fix {
+    background-color:darkgrey;
+    text-indent:30px;
+    width:360px;
+    height:420px;
+    margin-left:1200px;
+    margin-top:-420px;
+}
+.nulla {
+    background-color:whitesmoke;
+    margin-left:30px;
+    width:300px;
+}
+.nullaUs {
+    margin-left:30px;
+}
+.nulla_ {
+    background-color:whitesmoke;
+    margin-left:30px;
+    width:300px;
+    margin-top:30px;
+}
+.nullaUser {
+    margin-left:72px;
+}
+.int {
+    background-color:whitesmoke;
+    margin-left:30px;
+    width:300px;
+    margin-left:30px;
+    margin-top:30px;
+}
+.integerUser {
+    margin-left:81px;
+}
+.doneTask {
+    background-color:darkgrey;
+    text-indent:30px;
+    width:360px;
+    height:420px;
+    margin-left:1590px;
+    margin-top:-420px;
+}
+.nullam {
+    background-color:whitesmoke;
+    margin-left:30px;
+    width:300px;
+}
+.nullUs {
+    margin-left:30px;
+}
+.maecenas {
+    background-color:whitesmoke;
+    margin-left:30px;
+    width:300px;
+    margin-top:30px;
+}
+.maecUs {
+    margin-left:72px;
+}
+.sed_ {
+    background-color:whitesmoke;
+    margin-left:30px;
+    width:300px;
+    margin-top:30px;
+}
+.sedUser {
+    margin-left:81px;
+}

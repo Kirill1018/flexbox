@@ -1,0 +1,152 @@
+body {
+    background-color:lightblue;
+}
+.lorIps {
+    width:350px;
+    height:150px;
+}
+.sizeOfLorIps {
+    height:75px;
+}
+.size {
+    margin-left:150px;
+    padding-top:30px;
+}
+.text {
+    background-color:whitesmoke;
+}
+.using {
+    width:350px;
+    height:100px;
+    margin-left:420px;
+    margin-top:-150px;
+}
+.usSize {
+    height:50px;
+}
+.dimensions {
+    margin-left:150px;
+    padding-top:18px;
+}
+.comFrom {
+    width:350px;
+    height:100px;
+    margin-left:840px;
+    margin-top:-99px;
+}
+.sizeOfComFrom {
+    height:50px;
+}
+.amount {
+    margin-left:150px;
+    padding-top:18px;
+}
+.receiving {
+    width:350px;
+    height:220px;
+    margin-top:30px;
+}
+.recSize {
+    height:110px;
+}
+.number {
+    margin-left:150px;
+    padding-top:45px;
+}
+.ut {
+    width:350px;
+    height:230px;
+    margin-left:420px;
+    margin-top:-180px;
+}
+.utSize {
+    height:115px;
+}
+.rate {
+    margin-left:150px;
+    padding-top:51px;
+}
+.praesent {
+    width:350px;
+    height:350px;
+    margin-left:840px;
+    margin-top:-231px;
+}
+.praesSize {
+    height:175px;
+}
+.size_ {
+    margin-left:150px;
+    padding-top:75px;
+}
+.nunc {
+    width:350px;
+    height:100px;
+    margin-top:-240px;
+}
+.nuncSize {
+    height:50px;
+}
+.dimensions_ {
+    margin-left:150px;
+    padding-top:18px;
+}
+.suspendisse {
+    width:350px;
+    height:150px;
+    margin-left:420px;
+    margin-top:-42px;
+}
+.suspSize {
+    height:75px;
+}
+.amount_ {
+    margin-left:150px;
+    padding-top:30px;
+}
+.cras {
+    width:350px;
+    height:150px;
+    margin-left:840px;
+    margin-top:-90px;
+}
+.crasSize {
+    height:75px;
+}
+.number_ {
+    margin-left:150px;
+    padding-top:30px;
+}
+#dimension {
+    background-color:darkgrey;
+    color:grey;
+}
+@media (max-width:800px) {
+    .lorIps {
+        width:300px;
+    }
+    .using {
+        width:300px;
+    }
+    .comFrom {
+        width:300px;
+    }
+    .receiving {
+        width:300px;
+    }
+    .ut {
+        width:300px;
+    }
+    .praesent {
+        width:300px;
+    }
+    .nunc {
+        width:300px;
+    }
+    .suspendisse {
+        width:300px;
+    }
+    .cras {
+        width:300px;
+    }
+}

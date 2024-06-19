@@ -1,0 +1,85 @@
+body {
+    margin-left:120px;
+    margin-top:120px;
+}
+.image {
+    margin-left:75px;
+    margin-top:-60px;
+}
+.message {
+    margin-left:150px;
+    margin-top:-45px;
+}
+.msg {
+    margin-left:150px;
+    margin-top:15px;
+}
+.image {
+    margin-left:75px;
+}
+.picture {
+    margin-left:-60px;
+    margin-top:-15px;
+}
+.info {
+    margin-top:-45px;
+}
+.smith {
+    float:left;
+    margin-top:15px;
+}
+.silverston {
+    margin-top:-242px;
+    margin-left:570px;
+}
+.communication {
+    margin-top:-306px;
+}
+.side {
+    margin-top:90px;
+}
+.links {
+    margin-left:150px;
+    margin-top:12px;
+}
+.report {
+    margin-left:150px;
+    margin-top:12px;
+}
+.statement {
+    margin-top:81px;
+}
+.information {
+    margin-left:150px;
+    margin-top:12px;
+}
+.part {
+    margin-top:90px;
+}
+.message_ {
+    margin-left:150px;
+    margin-top:12px;
+}
+.msg_ {
+    margin-top:90px;
+}
+.text {
+    margin-top:-360px;
+}
+.time {
+    color:darkgrey;
+}
+#smithMess {
+    width:330px;
+    border-radius:1em;
+    padding:1em;
+    border-bottom-left-radius:0;
+    background-color:lightpink;
+}
+#silvMess {
+    width:330px;
+    border-radius:1em;
+    padding:1em;
+    border-bottom-right-radius:0;
+    background-color:lightblue;
+}
